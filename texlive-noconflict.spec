@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-noconflict
 Version:	1.0
-Release:	4
+Release:	5
 Summary:	Resolve macro name conflict between packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/noconflict
