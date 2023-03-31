@@ -1,6 +1,6 @@
 Name:		texlive-noconflict
 Version:	30140
-Release:	1
+Release:	2
 Summary:	Resolve macro name conflict between packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/noconflict
