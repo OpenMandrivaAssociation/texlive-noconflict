@@ -3,7 +3,7 @@ Version:	30140
 Release:	2
 Summary:	Resolve macro name conflict between packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/noconflict
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/noconflict
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/noconflict.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/noconflict.doc.r%{version}.tar.xz
